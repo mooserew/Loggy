@@ -3,6 +3,7 @@ import sys
 import socket
 from datetime import datetime
 from threading import Thread, Lock
+
 target = input(str("Target IP:"))
 
 # Create a lock to synchronize access to lst
@@ -61,4 +62,4 @@ for port_range in port_ranges:
     threads.append(t)
 
 for t in threads:
-    t.join()
+    t.join() 
