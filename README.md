@@ -7,7 +7,7 @@
 
 	        
 
-Simple Port-Scanning and Wifi Device Scanning Tool i made when i was bored while trying to learn python.
+Simple Port-Scanning and IP Device Scanning Tool i made when i was bored while trying to learn python.
 
-Don´t take it seriously.
+Don´t take it seriously :)
 
